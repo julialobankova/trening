@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\prog\tochka\bin\Debug\net6.0\tochka.exe
+C:\Users\Vadim\Desktop\prog\tochka\bin\Debug\net6.0\tochka.deps.json
+C:\Users\Vadim\Desktop\prog\tochka\bin\Debug\net6.0\tochka.runtimeconfig.json
+C:\Users\Vadim\Desktop\prog\tochka\bin\Debug\net6.0\tochka.dll
+C:\Users\Vadim\Desktop\prog\tochka\bin\Debug\net6.0\tochka.pdb
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.dll
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\refint\tochka.dll
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.pdb
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\tochka.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\prog\tochka\obj\Debug\net6.0\ref\tochka.dll
