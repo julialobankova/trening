@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\prog\tr4\bin\Debug\net6.0\tr4.exe
+C:\Users\Vadim\Desktop\prog\tr4\bin\Debug\net6.0\tr4.deps.json
+C:\Users\Vadim\Desktop\prog\tr4\bin\Debug\net6.0\tr4.runtimeconfig.json
+C:\Users\Vadim\Desktop\prog\tr4\bin\Debug\net6.0\tr4.dll
+C:\Users\Vadim\Desktop\prog\tr4\bin\Debug\net6.0\tr4.pdb
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.dll
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\refint\tr4.dll
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.pdb
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\tr4.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\prog\tr4\obj\Debug\net6.0\ref\tr4.dll
