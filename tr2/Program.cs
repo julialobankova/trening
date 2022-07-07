@@ -4,7 +4,10 @@
 //Console.WriteLine(username);
 
 
-Console.Write("ВВедите ваше имя ");
-string username = Console.ReadLine();
-Console.Write("Привет, ");
-Console.Write(username);
+//onsole.Write("ВВедите ваше имя ");
+//string username = Console.ReadLine();
+//Console.Write("Привет, ");
+//Console.Write(username);
+
+
+
