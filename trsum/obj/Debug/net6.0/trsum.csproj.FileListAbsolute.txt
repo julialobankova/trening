@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\prog\trsum\bin\Debug\net6.0\trsum.exe
+C:\Users\Vadim\Desktop\prog\trsum\bin\Debug\net6.0\trsum.deps.json
+C:\Users\Vadim\Desktop\prog\trsum\bin\Debug\net6.0\trsum.runtimeconfig.json
+C:\Users\Vadim\Desktop\prog\trsum\bin\Debug\net6.0\trsum.dll
+C:\Users\Vadim\Desktop\prog\trsum\bin\Debug\net6.0\trsum.pdb
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.dll
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\refint\trsum.dll
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.pdb
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\trsum.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\prog\trsum\obj\Debug\net6.0\ref\trsum.dll
